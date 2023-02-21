@@ -7,8 +7,8 @@
   <a href="https://www.instagram.com/8_sh_8/" target="_blank">
     <img src="https://img.shields.io/badge/Seungho-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seungho3623@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/seungho3623@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:seungho3623@inha.edu" target="_blank">
+    <img src="https://img.shields.io/badge/seungho3623@inha.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 </div>
