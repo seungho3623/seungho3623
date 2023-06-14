@@ -20,6 +20,9 @@
   <a href="mailto:seungho3623@inha.edu" target="_blank">
     <img src="https://img.shields.io/badge/seungho3623@inha.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="mailto:seungho3623@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/seungho3623@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Tech Stack -->
