@@ -2,17 +2,22 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Seungho's%20GitHub%20Profile&descAlignY=55&descAlign=62)
 <!-- SNS -->
-<p>
-  <Strong>☁️SNS List☁️</Strong><br><br>
+<!-- <p>
+  <Strong>☁️SNS List☁️</Strong><br><br> 
+  -->
   <!-- Instagram -->
+  <!--
   <a href="https://www.instagram.com/8_sh_8/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
+  -->
   <!-- Facebook -->
+  <!--
   <a href="https://www.facebook.com/profile.php?id=100007227038704" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
   </a>
 </p>
+-->
 
 <!-- Email -->
 <p>
